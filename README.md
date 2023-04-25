@@ -6,30 +6,26 @@
 |CLASSIFICAÇÃO DE IMAGENS|AINDA NÃO ESCOLHI|PYTORCH|
 
 ## Performance
+PERFORMACE DO PROJETO NO NOOTEBOOK COLAB AINDA NÃO ESTABELECIDA, POIS O NOTEBOOK AINDA NÃO FOI CRIADO.
 
-AINDA NÃO OBTIVE PERFORMACE DO MODELO
 
 ### Output do bloco de treinamento
 
 <details>
   <summary>Click to expand!</summary>
-  
-  ```text
-    Você deve colar aqui a saída do bloco de treinamento do notebook, contendo todas as épocas e saídas do treinamento
-  ```
+  AINDA NÃO FOI CRIADO NOTEBOOK NO COLAB DO PROJETO.
 </details>
 
 ### Evidências do treinamento
+#GRAFICO TREINAMENTO
+https://raw.githubusercontent.com/luizhenriqueengenheiro/datasetModelosPreditivosConexionistas/main/IMAGENS/GRAFICO%20TREINAMENTO.png
+#MATRIZ DE CONFUSÃO
+https://raw.githubusercontent.com/luizhenriqueengenheiro/datasetModelosPreditivosConexionistas/main/IMAGENS/MATRIZ%20CONFUS%C3%83O.png
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
-Exemplo de adição de imagem:
-![Descrição](https://picsum.photos/seed/picsum/500/300)
 
 ## Roboflow
-
 https://universe.roboflow.com/pos-analise-de-dados/classificacao-avaliacao-final/dataset/6
 
-## HuggingFace
 
-NÃO FOI SOLCITADO O HuggingFace
+## HuggingFace
+NÃO FOI SOLCITADO O HuggingFace.
