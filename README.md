@@ -3,6 +3,7 @@
 ### LUIZ HENRIQUE DOS SANTOS CORREIA DE MELO
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
+<br>
 |CLASSIFICAÇÃO DE IMAGENS|AINDA NÃO ESCOLHI|PYTORCH|
 
 ## Performance
