@@ -19,6 +19,7 @@ PERFORMACE DO PROJETO NO NOOTEBOOK COLAB AINDA NÃO ESTABELECIDA, POIS O NOTEBOO
 ### Evidências do treinamento
 #GRAFICO TREINAMENTO
 https://raw.githubusercontent.com/luizhenriqueengenheiro/datasetModelosPreditivosConexionistas/main/IMAGENS/GRAFICO%20TREINAMENTO.png
+<br>
 #MATRIZ DE CONFUSÃO
 https://raw.githubusercontent.com/luizhenriqueengenheiro/datasetModelosPreditivosConexionistas/main/IMAGENS/MATRIZ%20CONFUS%C3%83O.png
 
